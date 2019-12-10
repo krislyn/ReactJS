@@ -13,3 +13,13 @@
   background-color: #000;
   border: 1px solid #fff;
 }
+
+.snake-food {
+  position: absolute;
+  width: 2%;
+  height: 2%;
+  background: green;
+  border: 1px solid #FFF;
+  z-index: 1;
+  
+}
